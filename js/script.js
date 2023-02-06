@@ -1,7 +1,5 @@
 console.log("teste");
-
 let a = 5;
-
-while (a.length >= 5) {
-    console.log("teste");
+for (let i = 1; i <= a ; i++) {
+    console.log("teste"+ i);    
 }

@@ -18,4 +18,9 @@ Melhoria 1, Melhoria 2
 * PHP
 * MySQL
 
+### Funcionaliades a desenvolver:
+1. Área de membros
+2. Integração com outros pagamentos
+3. Sistema de bônus primeira compra
+
 

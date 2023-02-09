@@ -32,4 +32,4 @@ Melhoria 1, Melhoria 2
 
 ### Imagem Externa
 
-![Logo Javascript](https://commons.wikimedia.org/wiki/File:Unofficial_JavaScript_logo_2.svg)
+![Logo Javascript](https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg)

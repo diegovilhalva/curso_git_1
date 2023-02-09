@@ -36,7 +36,7 @@ Melhoria 1, Melhoria 2
 
 ### Link Interessantes:
 
-[Documentacão Oficial do PHP](https://www.php.net/){:target="_blank"}   
+[Documentacão Oficial do PHP](https://www.php.net/)
 
 [Documentação não oficial do Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 

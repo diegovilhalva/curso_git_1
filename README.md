@@ -48,6 +48,6 @@ Contribuidor Princial: https://github.com/diegovilhalva
 
 ```Javascript
     function soma(a,b){
-        retun a + b
+        return a + b
     }
 ```

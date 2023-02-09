@@ -34,5 +34,6 @@ Melhoria 1, Melhoria 2
 
 ![Logo Javascript](https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg)
 
-### Link Interessantes
+### Link Interessantes:
 [Documentacão Oficial do PHP](https://www.php.net/)
+[Documentação não oficial do Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)

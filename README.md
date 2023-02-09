@@ -41,3 +41,5 @@ Melhoria 1, Melhoria 2
 [Documentação não oficial do Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 Contribuidor Princial: https://github.com/diegovilhalva
+
+[![Logo Mysql](https://upload.wikimedia.org/wikipedia/commons/b/b2/Database-mysql.svg)](https://www.mysql.com/)

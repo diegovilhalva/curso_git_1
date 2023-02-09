@@ -26,4 +26,7 @@ Melhoria 1, Melhoria 2
 2. Integração com outros pagamentos
 3. Sistema de bônus primeira compra
 
+### Imagem Local
+
+![Logo do PHP](img/php-logo.png)
 

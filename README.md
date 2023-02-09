@@ -43,3 +43,11 @@ Melhoria 1, Melhoria 2
 Contribuidor Princial: https://github.com/diegovilhalva
 
 [![Logo Mysql](https://upload.wikimedia.org/wikipedia/commons/b/b2/Database-mysql.svg)](https://www.mysql.com/)
+
+### Código da função soma
+
+```Javascript
+    function soma(a,b){
+        retun a + b
+    }
+```

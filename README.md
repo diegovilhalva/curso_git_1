@@ -30,3 +30,6 @@ Melhoria 1, Melhoria 2
 
 ![Logo do PHP](img/php-logo.png)
 
+### Imagem Externa
+
+![Logo Javascript](https://commons.wikimedia.org/wiki/File:Unofficial_JavaScript_logo_2.svg)
